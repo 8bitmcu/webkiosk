@@ -2,11 +2,6 @@ webkiosk
 ========
 
 
-One liner
-----------------
-`sudo apt-get install chromium-browser xorg && xinit /usr/bin/chromium-browser --kiosk www.google.ca %U - :1`
-
-
 Install
 -------
 `sudo apt-get install chromium-browser`
@@ -25,4 +20,4 @@ Config
 
 Use
 ---
-`xinit /usr/bin/chromium-browser %U - :1`
+`xinit /usr/bin/chromium-browser --kiosk www.google.ca %U - :1`
