@@ -4,9 +4,11 @@ This is a quick Chromium-based webkiosk for HTML applications.
 
 Instructions included for Debian-based systems
 
+
 Install
 -------
 `sudo apt-get install chromium-browser`
+
 
 Config
 ------
