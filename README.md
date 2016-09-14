@@ -1,7 +1,6 @@
 Webkiosk
 ========
-This is a quick Chromium-based webkiosk for HTML applications
-Instructions included for Debian-based systems
+This is a quick Chromium-based webkiosk for HTML applications.  Instructions included for Debian-based systems
 
 Install
 -------
