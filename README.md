@@ -7,12 +7,12 @@ Instructions included for Debian-based systems
 
 Install
 -------
-`sudo apt-get install chromium-browser`
+`sudo apt-get install chromium`
 
 
 Config
 ------
-`which chromium-browser`
+`which chromium`
 
 `sudo nano ~/.config/chromium/Default/Preferences`
 
@@ -23,4 +23,4 @@ Config
 
 Usage
 -----
-`xinit /usr/bin/chromium-browser --kiosk www.google.ca %U - :1`
+`xinit /usr/bin/chromium --kiosk www.google.ca %U - :1`
