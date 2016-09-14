@@ -1,6 +1,6 @@
 Webkiosk
 ========
-This is a quick Chromium-based webkiosk for HTML5 applications
+This is a quick Chromium-based webkiosk for HTML applications
 
 Install
 -------
