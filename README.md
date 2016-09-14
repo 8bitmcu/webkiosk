@@ -1,11 +1,10 @@
-webkiosk
+Webkiosk
 ========
-
+This is a quick Chromium-based webkiosk for HTML5 applications
 
 Install
 -------
 `sudo apt-get install chromium-browser`
-
 
 Config
 ------
@@ -18,6 +17,6 @@ Config
 `sudo chmod 0400 ~/.config/chromium/Default/Preferences`
 
 
-Use
----
+Usage
+-----
 `xinit /usr/bin/chromium-browser --kiosk www.google.ca %U - :1`
